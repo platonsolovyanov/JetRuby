@@ -1,2 +1,2 @@
-[Game Tile](https://81qjt.csb.app/) - codesandbox
+[Game Tile](https://81qjt.csb.app/)
 ---
